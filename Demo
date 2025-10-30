@@ -8,3 +8,12 @@ def generate_otp(length=6):
 # Example usage
 otp = generate_otp()
 print("Your OTP is:", otp)
+
+
+
+
+
+
+
+
+hi da sanjai
